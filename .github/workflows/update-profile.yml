@@ -1,0 +1,33 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every day at 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+    # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with latest activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update README with latest activity'
+          MAX_LINES: 5
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Auto-update profile README"
+          git push
