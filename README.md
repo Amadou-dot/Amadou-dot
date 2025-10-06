@@ -6,15 +6,13 @@
 
 ## 🚀 About Me
 
-Hello, I'm Amadou
-
-I'm a highly motivated Full-Stack Developer with a passion for deploying cutting-edge web applications. I specialize in the Typescript/React/Next.js ecosystem.
+I'm Amadou - a highly motivated Full-Stack Developer with a passion for deploying cutting-edge web applications. I specialize in the Typescript/React/Next.js ecosystem.
 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm currently learning new technologies and frameworks
 - 💬 Ask me about anything tech-related
 - 📫 How to reach me: amadou.sseck@gmail.com
-- ⚡ Fun fact: I love turning coffee into code! ☕
+<!-- - ⚡ Fun fact: I love turning coffee into code! ☕ -->
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +36,7 @@ I'm a highly motivated Full-Stack Developer with a passion for deploying cutting
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Technologies
 
@@ -65,17 +63,82 @@ I'm a highly motivated Full-Stack Developer with a passion for deploying cutting
 
 ## 🔥 Featured Projects
 
-### 🌟 [LodgeFlow - Admin Dashboard](https://github.com/Amadou-dot/LodgeFlow_admin)
-
-Full-stack hotel management system with React/Next.js. Features booking management, guest services, dining reservations, and business analytics.
-
-### 🚀 [Glisten AI](https://github.com/Amadou-dot/AI-CMS)
-
-Performance-focused marketing website with component-based architecture and intuitive CMS for easy content management.
-
-### 💡 [Notes](https://github.com/Amadou-dot/note-taking-app)
-
-A responsive full‑stack web app built with Next.js, React (TypeScript), Tailwind CSS, and MongoDB, featuring rich note management, dark/light mode, and seamless cross‑device usability.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌟 LodgeFlow – Admin Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/Amadou-dot/LodgeFlow_admin" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p>
+        A full‑stack hotel management system built with <b>Next.js/TypeScript</b>.  
+        Includes booking management, guest services, dining reservations, and business analytics.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HeroUI-0A0A0A?style=for-the-badge&logo=react&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Glisten AI</h3>
+      <p align="center">
+        <a href="https://github.com/Amadou-dot/AI-CMS" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p>
+        A performance‑focused marketing website with a <b>component‑based architecture</b>  
+        and an intuitive CMS powered by Prismic.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💡 Notes App</h3>
+      <p align="center">
+        <a href="https://github.com/Amadou-dot/note-taking-app" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+      <p>
+        A responsive full‑stack note‑taking application built with  
+        <b>Next.js, React (TypeScript), Tailwind CSS, and MongoDB</b>.  
+        Features rich text editing, dark/light mode, and cross‑device usability.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛎️ LodgeFlow – Customer Web App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/In%20Progress-blue?style=for-the-badge" alt="In Progress"/>
+      </p>
+      <p>
+        A customer‑facing web application complementing the LodgeFlow Admin Dashboard.  
+        Built with the same modern stack for seamless integration and user experience.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Current Goals
 
