@@ -1,6 +1,6 @@
 # Assets Directory
 
-This directory contains media files for the GitHub profile.
+This directory contains media files for my GitHub profile.
 
 ## Structure
 
@@ -8,8 +8,6 @@ This directory contains media files for the GitHub profile.
 - `banners/` - Header banners and cover images
 
 ## Usage
-
-You can add your profile images here and reference them in your README.md file.
 
 Example:
 ```markdown

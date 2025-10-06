@@ -9,8 +9,6 @@
 
 Hello, I'm Amadou
 
-I'm currently in my second year at MSU Denver and I'm working towards a computer science degree.
-
 I'm a highly motivated Full-Stack Developer with a passion for deploying cutting-edge web applications. I specialize in the Typescript/React/Next.js ecosystem.
 
 
