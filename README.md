@@ -39,7 +39,6 @@ I'm a highly motivated Full-Stack Developer with a passion for deploying cutting
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 
@@ -115,7 +114,7 @@ A responsive full‑stack web app built with Next.js, React (TypeScript), Tailwi
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amadou-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Amadou-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> -->
   
   **Thanks for visiting! 😄**
 </div>
