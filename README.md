@@ -62,14 +62,14 @@ I'm a highly motivated Full-Stack Developer with a passion for deploying cutting
 
 ## 🔥 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/Amadou-dot/project1)
-Brief description of your most impressive project. What it does, what technologies you used, and why it's special.
+### 🌟 [LodgeFlow - Admin Dashboard](https://github.com/Amadou-dot/LodgeFlow_admin)
+Full-stack hotel management system with React/Next.js. Features booking management, guest services, dining reservations, and business analytics.
 
-### 🚀 [Project Name 2](https://github.com/Amadou-dot/project2)
-Another cool project description. Highlight the key features and your role in the development.
+### 🚀 [Glisten AI](https://github.com/Amadou-dot/AI-CMS)
+Performance-focused marketing website with component-based architecture and intuitive CMS for easy content management.
 
-### 💡 [Project Name 3](https://github.com/Amadou-dot/project3)
-Third project showcasing different skills or technologies you've worked with.
+### 💡 [Notes](https://github.com/Amadou-dot/note-taking-app)
+A responsive full‑stack web app built with Next.js, React (TypeScript), Tailwind CSS, and MongoDB, featuring rich note management, dark/light mode, and seamless cross‑device usability.
 
 ## 🎯 Current Goals
 
