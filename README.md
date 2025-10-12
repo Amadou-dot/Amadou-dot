@@ -150,6 +150,10 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 
 ## 📈 Activity Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amadou-dot&theme=radical" alt="Activity Graph" />
+</div>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#21](https://github.com/Amadou-dot/LodgeFlow/pull/21) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
 2. 💪 Opened PR [#21](https://github.com/Amadou-dot/LodgeFlow/pull/21) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
@@ -157,10 +161,6 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 4. ❗ Opened issue [#19](https://github.com/Amadou-dot/LodgeFlow/issues/19) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
 5. ❗ Opened issue [#18](https://github.com/Amadou-dot/LodgeFlow/issues/18) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
 <!--END_SECTION:activity-->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amadou-dot&theme=radical" alt="Activity Graph" />
-</div>
 
 ## 🤝 Connect with Me
 
