@@ -151,6 +151,7 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 ## 📈 Activity Graph
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amadou-dot&theme=radical" alt="Activity Graph" />
