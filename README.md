@@ -122,9 +122,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛎️ LodgeFlow – Customer Web App</h3>
+      <h3 align="center">🛎️ LodgeFlow – Customer Portal</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/In%20Progress-blue?style=for-the-badge" alt="In Progress"/>
+        <a href="https://github.com/Amadou-dot/LodgeFlow" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
       </p>
       <p>
         A customer‑facing web application complementing the LodgeFlow Admin Dashboard.  
