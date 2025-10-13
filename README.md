@@ -155,11 +155,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Amadou-dot/LodgeFlow/pull/21) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-2. 💪 Opened PR [#21](https://github.com/Amadou-dot/LodgeFlow/pull/21) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-3. ❗ Opened issue [#20](https://github.com/Amadou-dot/LodgeFlow/issues/20) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-4. ❗ Opened issue [#19](https://github.com/Amadou-dot/LodgeFlow/issues/19) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-5. ❗ Opened issue [#18](https://github.com/Amadou-dot/LodgeFlow/issues/18) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+1. 🎉 Merged PR [#56](https://github.com/Amadou-dot/LodgeFlow_admin/pull/56) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+2. 💪 Opened PR [#56](https://github.com/Amadou-dot/LodgeFlow_admin/pull/56) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+3. 🎉 Merged PR [#24](https://github.com/Amadou-dot/LodgeFlow/pull/24) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+4. 💪 Opened PR [#24](https://github.com/Amadou-dot/LodgeFlow/pull/24) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+5. 🎉 Merged PR [#23](https://github.com/Amadou-dot/LodgeFlow/pull/23) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
