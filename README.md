@@ -155,11 +155,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#36](https://github.com/Amadou-dot/LodgeFlow/issues/36) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-2. 💪 Opened PR [#43](undefined) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-3. 💪 Opened PR [#42](undefined) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-4.  Labeled issue [#36](https://github.com/Amadou-dot/LodgeFlow/issues/36) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-5.  Labeled issue [#36](https://github.com/Amadou-dot/LodgeFlow/issues/36) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+1.  Labeled issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
+2.  Labeled issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
+3.  Labeled issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
+4. ❗ Opened issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
+5.  Labeled issue [#29](https://github.com/Amadou-dot/trailspend/issues/29) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
