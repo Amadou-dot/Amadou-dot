@@ -155,11 +155,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 </div>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
-2.  Labeled issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
-3.  Labeled issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
-4. ❗ Opened issue [#28](https://github.com/Amadou-dot/trailspend/issues/28) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
-5.  Labeled issue [#29](https://github.com/Amadou-dot/trailspend/issues/29) in [Amadou-dot/trailspend](https://github.com/Amadou-dot/trailspend)
+1. 💪 Opened PR [#44](undefined) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+2. 💪 Opened PR [#62](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+3. ❌ Assigned PR [#61](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+4. 💪 Opened PR [#61](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+5. 💪 Opened PR [#60](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
