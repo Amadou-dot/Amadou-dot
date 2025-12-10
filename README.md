@@ -155,11 +155,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 </div>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#64](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-2. ❌ Assigned PR [#64](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-3. 💪 Opened PR [#64](undefined) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-4. ❌ Merged PR [#45](undefined) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-5. 💪 Opened PR [#45](undefined) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+1.  Assigned issue [#15](https://github.com/Amadou-dot/infrasight/issues/15) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+2.  Assigned issue [#14](https://github.com/Amadou-dot/infrasight/issues/14) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+3.  Assigned issue [#13](https://github.com/Amadou-dot/infrasight/issues/13) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+4.  Assigned issue [#12](https://github.com/Amadou-dot/infrasight/issues/12) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+5.  Assigned issue [#11](https://github.com/Amadou-dot/infrasight/issues/11) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
