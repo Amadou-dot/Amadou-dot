@@ -155,11 +155,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/Amadou-dot/infrasight/issues/22) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-2. 🔒 Closed issue [#21](https://github.com/Amadou-dot/infrasight/issues/21) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-3. 🔒 Closed issue [#20](https://github.com/Amadou-dot/infrasight/issues/20) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-4. 🔒 Closed issue [#19](https://github.com/Amadou-dot/infrasight/issues/19) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-5. 🔒 Closed issue [#6](https://github.com/Amadou-dot/infrasight/issues/6) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+1. ❌ Merged PR [#40](undefined) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+2. 💪 Opened PR [#40](undefined) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+3. 🔓 Reopened issue [#7](https://github.com/Amadou-dot/infrasight/issues/7) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+4.  Assigned issue [#7](https://github.com/Amadou-dot/infrasight/issues/7) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+5. ❌ Merged PR [#39](undefined) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
