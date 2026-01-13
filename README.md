@@ -80,19 +80,20 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚀 Glisten AI</h3>
+      <h3 align="center">🚀 InfraSight</h3>
       <p align="center">
-        <a href="https://github.com/Amadou-dot/AI-CMS" target="_blank">
+        <a href="https://github.com/Amadou-dot/infrasight" target="_blank">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
       <p>
-        A performance‑focused marketing website with a <b>component‑based architecture</b>  
-        and an intuitive CMS powered by Prismic.
+        A real-time IoT sensor monitoring dashboard for building management. It tracks environmental sensors (temperature, humidity, CO2, occupancy, power, air quality, etc.) across building floors and rooms.
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white"/>
+       <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </p>
     </td>
   </tr>
