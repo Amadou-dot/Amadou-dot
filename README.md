@@ -1,18 +1,17 @@
 # Hi there, I'm Amadou! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;CS+Student;Building+and+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 </div>
 
 ## 🚀 About Me
 
-I'm Amadou - a highly motivated Full-Stack Developer with a passion for deploying cutting-edge web applications. I specialize in the Typescript/React/Next.js ecosystem.
+I'm a Computer Science student passionate about building web applications and learning new technologies. My journey started with vanilla JavaScript and has evolved into working with modern frameworks like React and Next.js.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and frameworks
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: amadou.sseck@gmail.com
-<!-- - ⚡ Fun fact: I love turning coffee into code! ☕ -->
+- 🎓 Currently studying Computer Science
+- 🔨 Building full-stack projects to apply what I learn
+- 🌱 Exploring TypeScript, Next.js, and database design
+- 📫 Reach me at: amadou.sseck@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -48,12 +47,6 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amadou-dot&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amadou-dot&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## 🔥 Featured Projects
@@ -138,11 +131,11 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
   </tr>
 </table>
 
-## 🎯 Current Goals
+## 🎯 What I'm Working On
 
-- 🔍 Exploring new technologies and frameworks
-- 📚 Continuous learning and skill development
-- 🌐 Building impactful applications
+- 📚 Deepening my understanding of system design and databases
+- 🔧 Building projects that solve real problems
+- 🤝 Looking for internship opportunities and collaboration
 
 ## 📈 Activity Graph
 
@@ -183,7 +176,6 @@ I'm Amadou - a highly motivated Full-Stack Developer with a passion for deployin
 ---
 
 <div align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=Amadou-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> -->
-  
-  **Thanks for visiting! 😄**
+
+  **Thanks for stopping by! Always happy to connect with fellow learners and developers.**
 </div>
