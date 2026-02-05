@@ -144,11 +144,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/Amadou-dot/infrasight/pull/70) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-2. 🔒 Closed issue [#66](https://github.com/Amadou-dot/infrasight/issues/66) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-3. 💪 Opened PR [#70](https://github.com/Amadou-dot/infrasight/pull/70) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-4. 🎉 Merged PR [#69](https://github.com/Amadou-dot/infrasight/pull/69) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-5. ℹ️ Assigned PR [#69](https://github.com/Amadou-dot/infrasight/pull/69) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+1. 💪 Opened PR [#74](https://github.com/Amadou-dot/infrasight/pull/74) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+2. 🎉 Merged PR [#73](https://github.com/Amadou-dot/infrasight/pull/73) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+3. 💪 Opened PR [#73](https://github.com/Amadou-dot/infrasight/pull/73) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+4. 🎉 Merged PR [#72](https://github.com/Amadou-dot/infrasight/pull/72) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+5. ℹ️ Assigned PR [#72](https://github.com/Amadou-dot/infrasight/pull/72) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
