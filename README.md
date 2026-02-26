@@ -41,11 +41,6 @@ I'm a Computer Science student passionate about building web applications and le
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amadou-dot&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadou-dot&layout=compact&theme=radical" alt="Top Languages" height="170px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amadou-dot&theme=radical" alt="GitHub Streak" />
 </div>
 
