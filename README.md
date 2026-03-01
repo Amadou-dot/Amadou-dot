@@ -139,11 +139,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/Amadou-dot/LodgeFlow_admin/pull/96) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-2. 💪 Opened PR [#96](https://github.com/Amadou-dot/LodgeFlow_admin/pull/96) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-3. ℹ️ Assigned PR [#96](https://github.com/Amadou-dot/LodgeFlow_admin/pull/96) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-4. ℹ️ Assigned PR [#95](https://github.com/Amadou-dot/LodgeFlow_admin/pull/95) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
-5. 🎉 Merged PR [#95](https://github.com/Amadou-dot/LodgeFlow_admin/pull/95) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+1. 🎉 Merged PR [#99](https://github.com/Amadou-dot/LodgeFlow_admin/pull/99) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+2. 💪 Opened PR [#99](https://github.com/Amadou-dot/LodgeFlow_admin/pull/99) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+3. 🎉 Merged PR [#97](https://github.com/Amadou-dot/LodgeFlow_admin/pull/97) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+4. ℹ️ Assigned PR [#97](https://github.com/Amadou-dot/LodgeFlow_admin/pull/97) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
+5. 🎉 Merged PR [#98](https://github.com/Amadou-dot/LodgeFlow_admin/pull/98) in [Amadou-dot/LodgeFlow_admin](https://github.com/Amadou-dot/LodgeFlow_admin)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
