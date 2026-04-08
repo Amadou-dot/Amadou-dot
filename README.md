@@ -139,11 +139,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/3250Group4/AssigmentTracker/pull/32) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-2. 🎉 Merged PR [#1](https://github.com/Amadou-dot/SwiftSlate/pull/1) in [Amadou-dot/SwiftSlate](https://github.com/Amadou-dot/SwiftSlate)
-3. 💪 Opened PR [#1](https://github.com/Amadou-dot/SwiftSlate/pull/1) in [Amadou-dot/SwiftSlate](https://github.com/Amadou-dot/SwiftSlate)
-4. 💪 Opened PR [#32](https://github.com/3250Group4/AssigmentTracker/pull/32) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-5. ℹ️ Assigned issue [#15](https://github.com/3250Group4/AssigmentTracker/issues/15) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+1. 💪 Opened PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+2. 🎉 Merged PR [#32](https://github.com/3250Group4/AssigmentTracker/pull/32) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+3. 🎉 Merged PR [#1](https://github.com/Amadou-dot/SwiftSlate/pull/1) in [Amadou-dot/SwiftSlate](https://github.com/Amadou-dot/SwiftSlate)
+4. 💪 Opened PR [#1](https://github.com/Amadou-dot/SwiftSlate/pull/1) in [Amadou-dot/SwiftSlate](https://github.com/Amadou-dot/SwiftSlate)
+5. 💪 Opened PR [#32](https://github.com/3250Group4/AssigmentTracker/pull/32) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
