@@ -139,11 +139,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-2. 💪 Opened PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-3. 🎉 Merged PR [#32](https://github.com/3250Group4/AssigmentTracker/pull/32) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-4. 🎉 Merged PR [#1](https://github.com/Amadou-dot/SwiftSlate/pull/1) in [Amadou-dot/SwiftSlate](https://github.com/Amadou-dot/SwiftSlate)
-5. 💪 Opened PR [#1](https://github.com/Amadou-dot/SwiftSlate/pull/1) in [Amadou-dot/SwiftSlate](https://github.com/Amadou-dot/SwiftSlate)
+1. 🎉 Merged PR [#62](https://github.com/Amadou-dot/LodgeFlow/pull/62) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+2. 💪 Opened PR [#62](https://github.com/Amadou-dot/LodgeFlow/pull/62) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+3. 💪 Opened PR [#61](https://github.com/Amadou-dot/LodgeFlow/pull/61) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+4. 🎉 Merged PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+5. 💪 Opened PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
