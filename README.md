@@ -139,11 +139,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/Amadou-dot/LodgeFlow/pull/62) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-2. 💪 Opened PR [#62](https://github.com/Amadou-dot/LodgeFlow/pull/62) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-3. 💪 Opened PR [#61](https://github.com/Amadou-dot/LodgeFlow/pull/61) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-4. 🎉 Merged PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-5. 💪 Opened PR [#36](https://github.com/3250Group4/AssigmentTracker/pull/36) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+1. 🔒 Closed issue [#17](https://github.com/3250Group4/AssigmentTracker/issues/17) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+2. 🗣 Commented on [#17](https://github.com/3250Group4/AssigmentTracker/issues/17#issuecomment-4246058403) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+3. 🔒 Closed issue [#15](https://github.com/3250Group4/AssigmentTracker/issues/15) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+4. 🗣 Commented on [#15](https://github.com/3250Group4/AssigmentTracker/issues/15#issuecomment-4246051067) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+5. 🎉 Merged PR [#40](https://github.com/3250Group4/AssigmentTracker/pull/40) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
