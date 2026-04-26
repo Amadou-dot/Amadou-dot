@@ -139,11 +139,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Amadou-dot/LodgeFlow/pull/61) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-2. ℹ️ Assigned PR [#61](https://github.com/Amadou-dot/LodgeFlow/pull/61) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
-3. 🎉 Merged PR [#45](https://github.com/3250Group4/AssigmentTracker/pull/45) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-4. ❌ Closed PR [#44](https://github.com/3250Group4/AssigmentTracker/pull/44) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
-5. 💪 Opened PR [#45](https://github.com/3250Group4/AssigmentTracker/pull/45) in [3250Group4/AssigmentTracker](https://github.com/3250Group4/AssigmentTracker)
+1. 💪 Opened PR [#63](https://github.com/Amadou-dot/LodgeFlow/pull/63) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+2. 🎉 Merged PR [#81](https://github.com/Amadou-dot/infrasight/pull/81) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+3. ℹ️ Assigned PR [#81](https://github.com/Amadou-dot/infrasight/pull/81) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+4. 🎉 Merged PR [#61](https://github.com/Amadou-dot/LodgeFlow/pull/61) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
+5. ℹ️ Assigned PR [#61](https://github.com/Amadou-dot/LodgeFlow/pull/61) in [Amadou-dot/LodgeFlow](https://github.com/Amadou-dot/LodgeFlow)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
