@@ -139,11 +139,11 @@ I'm a Computer Science student passionate about building web applications and le
 </div>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#118](https://github.com/Amadou-dot/infrasight/issues/118) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-2. ℹ️ Labeled issue [#118](https://github.com/Amadou-dot/infrasight/issues/118) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-3. ❗ Opened issue [#118](https://github.com/Amadou-dot/infrasight/issues/118) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
-4. 🎉 Merged PR [#82](https://github.com/Amadou-dot/lodgeFlow/pull/82) in [Amadou-dot/lodgeFlow](https://github.com/Amadou-dot/lodgeFlow)
-5. 🗣 Commented on [#116](https://github.com/Amadou-dot/infrasight/pull/116#issuecomment-5186597596) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+1. 🔒 Closed issue [#100](https://github.com/Amadou-dot/infrasight/issues/100) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+2. 🎉 Merged PR [#116](https://github.com/Amadou-dot/infrasight/pull/116) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+3. 🔒 Closed issue [#99](https://github.com/Amadou-dot/infrasight/issues/99) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+4. 🔒 Closed issue [#98](https://github.com/Amadou-dot/infrasight/issues/98) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
+5. 🔒 Closed issue [#97](https://github.com/Amadou-dot/infrasight/issues/97) in [Amadou-dot/infrasight](https://github.com/Amadou-dot/infrasight)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
