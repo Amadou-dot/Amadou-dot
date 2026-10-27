@@ -38,11 +38,7 @@ I'm a Computer Science student passionate about building web applications and le
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amadou-dot&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🔥 Featured Projects
 
@@ -132,11 +128,17 @@ I'm a Computer Science student passionate about building web applications and le
 - 🔧 Building projects that solve real problems
 - 🤝 Looking for internship opportunities and collaboration
 
-## 📈 Activity Graph
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amadou-dot&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amadou-dot&theme=radical" alt="GitHub Streak" />
 </div>
+
+## 📈 Activity Graph
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amadou-dot&theme=radical" alt="Activity Graph" />
+</div> -->
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#195](https://github.com/Amadou-dot/lodgeFlow_admin/pull/195) in [Amadou-dot/lodgeFlow_admin](https://github.com/Amadou-dot/lodgeFlow_admin)
