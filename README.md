@@ -42,17 +42,39 @@ I'm a Computer Science student passionate about building web applications and le
 
 ## 🔥 Featured Projects
 
-### LodgeFlow
-
-Guests use LodgeFlow to book cabins, dining, and guided activities at a wilderness lodge. At the front desk, staff see those reservations in a shared inbox, track cabin occupancy, and record payments.
-
-[Guest booking site](https://lodgeflow.app) · [Staff dashboard](https://admin.lodgeflow.app) · [LodgeFlow repository](https://github.com/Amadou-dot/lodgeFlow_admin)
-
-### InfraSight
-
-InfraSight shows live readings from building sensors on a floor plan. In the public demo, you can explore rooms, follow a sensor’s readings over time, and see which alerts need attention.
-
-[Explore the demo](https://www.infrasight.org/) · [InfraSight repository](https://github.com/Amadou-dot/infrasight)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">LodgeFlow</h3>
+      <p align="center">
+        <a href="https://github.com/Amadou-dot/LodgeFlow"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="LodgeFlow repository"></a>
+      </p>
+      <p>Guests use LodgeFlow to book cabins, dining, and guided activities at a wilderness lodge. At the front desk, staff see those reservations in a shared inbox, track cabin occupancy, and record payments.</p>
+      <p align="center"><a href="https://lodgeflow.app">Guest booking site</a> · <a href="https://admin.lodgeflow.app">Staff dashboard</a></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/HeroUI-0A0A0A?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="HeroUI">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">InfraSight</h3>
+      <p align="center">
+        <a href="https://github.com/Amadou-dot/infrasight"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="InfraSight repository"></a>
+      </p>
+      <p>InfraSight shows live readings from building sensors on a floor plan. In the public demo, you can explore rooms, follow a sensor’s readings over time, and see which alerts need attention.</p>
+      <p align="center"><a href="https://www.infrasight.org/">Explore the demo</a></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 What I'm Working On
 
