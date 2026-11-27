@@ -42,91 +42,24 @@ I'm a Computer Science student passionate about building web applications and le
 
 ## 🔥 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌟 LodgeFlow – Admin Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/Amadou-dot/LodgeFlow_admin" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
-      </p>
-      <p>
-        A full‑stack hotel management system built with <b>Next.js/TypeScript</b>.  
-        Includes booking management, guest services, dining reservations, and business analytics.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HeroUI-0A0A0A?style=for-the-badge&logo=react&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 InfraSight</h3>
-      <p align="center">
-        <a href="https://github.com/Amadou-dot/infrasight" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
-      </p>
-      <p>
-        A real-time IoT sensor monitoring dashboard for building management. It tracks environmental sensors (temperature, humidity, CO2, occupancy, power, air quality, etc.) across building floors and rooms.
-      </p>
-       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💡 Notes App</h3>
-      <p align="center">
-        <a href="https://github.com/Amadou-dot/note-taking-app" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
-      </p>
-      <p>
-        A responsive full‑stack note‑taking application built with  
-        <b>Next.js, React (TypeScript), Tailwind CSS, and MongoDB</b>.  
-        Features rich text editing, dark/light mode, and cross‑device usability.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛎️ LodgeFlow – Customer Portal</h3>
-      <p align="center">
-        <a href="https://github.com/Amadou-dot/LodgeFlow" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-        </a>
-      </p>
-      <p>
-        A customer‑facing web application complementing the LodgeFlow Admin Dashboard.  
-        Built with the same modern stack for seamless integration and user experience.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### LodgeFlow
+
+Guests use LodgeFlow to book cabins, dining, and guided activities at a wilderness lodge. At the front desk, staff see those reservations in a shared inbox, track cabin occupancy, and record payments.
+
+[Guest booking site](https://lodgeflow.app) · [Staff dashboard](https://admin.lodgeflow.app) · [LodgeFlow repository](https://github.com/Amadou-dot/lodgeFlow_admin)
+
+### InfraSight
+
+InfraSight shows live readings from building sensors on a floor plan. In the public demo, you can explore rooms, follow a sensor’s readings over time, and see which alerts need attention.
+
+[Explore the demo](https://www.infrasight.org/) · [InfraSight repository](https://github.com/Amadou-dot/infrasight)
 
 ## 🎯 What I'm Working On
 
 - 📚 Deepening my understanding of system design and databases
 - 🔧 Building projects that solve real problems
 - 🤝 Looking for internship opportunities and collaboration
+- 📝 Sharing a [project README template](templates/project/README.md) you can copy into your own repository
 
 ## 📊 GitHub Stats
 
